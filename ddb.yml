@@ -1,0 +1,8 @@
+core:
+  project:
+    name: vue
+cookiecutter:
+  templates:
+    - template: gh:inetum-orleans/djp-node
+      extra_context:
+        node_version: "20"

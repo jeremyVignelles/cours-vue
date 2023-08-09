@@ -1,0 +1,16 @@
+###> inetum-orleans/docker-devbox ###
+/*ddb.local.*
+/.bash_enter
+/.bash_leave
+/.bin/node
+/.bin/npm
+/.bin/npx
+/docker-compose.yml
+/.docker/node/Dockerfile
+/.docker/node/fixuid.tar.gz
+/.certs/vue.test.key
+/.certs/vue.test.crt
+/.certs/.signer.crt
+###< inetum-orleans/docker-devbox ###
+
+**/node_modules
